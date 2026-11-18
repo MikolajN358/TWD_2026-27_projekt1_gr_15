@@ -3,5 +3,25 @@
 Źródła wykorzystane do tworzenia wykresów na projektowym plakacie:
 
 Wykres:
+
 Autor:
+
+Źródła:
+
+Wykres:
+
+Autor:
+
+Źródła:
+
+Wykres:
+
+Autor:
+
+Źródła:
+
+Wykres:
+
+Autor:
+
 Źródła:
