@@ -2,11 +2,15 @@
 
 Źródła wykorzystane do tworzenia wykresów na projektowym plakacie:
 
-Wykres:
+Wykres: Procent prób samobójczych dokonanych poprzez zażycie leków
 
-Autor:
+Autor: Mikołaj Narulski
 
-Źródła:
+Źródła: 
+
+https://bdl.stat.gov.pl/bdl/metadane/metryka/3834
+
+https://bdl.stat.gov.pl/bdl/metadane/metryka/2137
 
 Wykres:
 
