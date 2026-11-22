@@ -12,11 +12,15 @@ https://bdl.stat.gov.pl/bdl/metadane/metryka/3834
 
 https://bdl.stat.gov.pl/bdl/metadane/metryka/2137
 
-Wykres:
+Wykres: Pomoc społeczna z powodu narkomanii
 
-Autor:
+Autor: Paweł Ordak
 
 Źródła:
+
+https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary/22/429/3552
+
+https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary/3/7/2137
 
 Wykres:
 
