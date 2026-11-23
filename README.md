@@ -8,9 +8,9 @@ Autor: Mikołaj Narulski
 
 Źródła: 
 
-https://bdl.stat.gov.pl/bdl/metadane/metryka/3834
+https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary/37/606/3834
 
-https://bdl.stat.gov.pl/bdl/metadane/metryka/2137
+https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary/3/7/2137
 
 Wykres: Pomoc społeczna z powodu narkomanii
 
