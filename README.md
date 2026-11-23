@@ -22,14 +22,14 @@ https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary/22/429/3552
 
 https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary/3/7/2137
 
+Wykres: Używanie substancji psychoaktywnych wsród młodzieży
+
+Autor: Paweł Kliniewski
+
+Źródła: https://kcpu.gov.pl/wp-content/uploads/2025/03/Raport-ESPAD-2024-POLSKA.pdf
+
 Wykres:
 
-Autor:
-
-Źródła:
-
-Wykres:
-
-Autor:
+Autor: 
 
 Źródła:
